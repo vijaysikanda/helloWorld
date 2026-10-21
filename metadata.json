@@ -1,0 +1,6 @@
+{
+  "name": "Hallo World",
+  "description": "An interactive celebration of the universal first greeting in computing, typography, and global languages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
